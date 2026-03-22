@@ -38,5 +38,4 @@ Valorant API - https://valorant-api.com/
 * More detailed stats view
 
 ##  Author
-
 Resmanth Kumar Beesetti
