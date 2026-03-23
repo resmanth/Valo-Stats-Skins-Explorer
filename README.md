@@ -7,12 +7,12 @@ Valo-Stats & Skins Explorer is a web application that allows users to explore Va
 
 ##  Features
 
-*  Search skins by name
-*  Filter skins by tier/rarity
-*  Sort skins alphabetically
-*  Add/remove favorites (stored in local storage)
-*  Dark mode toggle
-*  Fully responsive design
+* Search agents by name
+* Filter agents by role (Duelist, Sentinel, Controller, Initiator)
+* Sort agents alphabetically
+* View agent details (name, role, image)
+* Dark mode toggle
+* Fully responsive design
 
 ##  API Used
 
